@@ -1,4 +1,4 @@
-# cs252HWap
+# cs252HWapp
 
 Team Information: 
 Vishaal Bommena vbommena@purdue.edu
